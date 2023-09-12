@@ -3,7 +3,7 @@
 main()
 {
 	int i,j,n,n1,sum=0;
-	int a[100][100],b[100][100],c[100][100];
+	int a[100][100],b[100][100],c[200][200];
 	
 	printf("Enter the row of A= ");
 	scanf("%d",&n);
